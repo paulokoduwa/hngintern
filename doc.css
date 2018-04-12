@@ -1,0 +1,30 @@
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: right;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ol {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ol a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
